@@ -1,0 +1,15 @@
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\bin\Debug\net8.0\Conciliation.Application.deps.json
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\bin\Debug\net8.0\Conciliation.Application.dll
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\bin\Debug\net8.0\Conciliation.Application.pdb
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\bin\Debug\net8.0\Conciliation.Domain.dll
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\bin\Debug\net8.0\Conciliation.Domain.pdb
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Conciliation.Application.csproj.AssemblyReference.cache
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Conciliation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Conciliation.Application.AssemblyInfoInputs.cache
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Conciliation.Application.AssemblyInfo.cs
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Conciliation.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Concilia.6B3AE826.Up2Date
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Conciliation.Application.dll
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\refint\Conciliation.Application.dll
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Conciliation.Application.pdb
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\ref\Conciliation.Application.dll
