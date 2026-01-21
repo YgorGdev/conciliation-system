@@ -68,21 +68,23 @@ Projeto organizado em camadas:
 - SQL Server configurado
 
 ### Rodando a aplicação
-
+`````
 dotnet restore
 dotnet build
 dotnet run --project src/Conciliation.Api
-
+``````
 A API será iniciada em:
-
+``````
 http://localhost:5292
-
+``````
 Swagger:
-
+``````
 http://localhost:5292/swagger
-
+``````
 Executando os testes
+``````
 dotnet test
+``````
 O projeto já conta com estrutura de testes utilizando xUnit, servindo como base para evolução das regras de negócio.
 
 ⚙️ Integração Contínua
@@ -95,5 +97,6 @@ execução dos testes
 validação do código a cada push
 
 Arquivo de pipeline:
+``````
 
 .github/workflows/ci.yml
