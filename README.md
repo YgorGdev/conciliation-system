@@ -69,3 +69,5 @@ Projeto organizado em camadas:
 dotnet restore
 dotnet build
 dotnet run --project src/Conciliation.Api
+
+###
