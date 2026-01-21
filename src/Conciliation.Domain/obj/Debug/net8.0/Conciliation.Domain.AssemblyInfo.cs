@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conciliation.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e14fa20293c9b58479b2627baa0430b70295788")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c2fc375819361ae642fe02597086e3ca20841c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conciliation.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conciliation.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
