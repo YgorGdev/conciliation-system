@@ -5,6 +5,7 @@ C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Domain\obj\Debug\net8
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Domain\obj\Debug\net8.0\Conciliation.Domain.AssemblyInfoInputs.cache
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Domain\obj\Debug\net8.0\Conciliation.Domain.AssemblyInfo.cs
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Domain\obj\Debug\net8.0\Conciliation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Domain\obj\Debug\net8.0\Conciliation.Domain.sourcelink.json
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Domain\obj\Debug\net8.0\Conciliation.Domain.dll
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Domain\obj\Debug\net8.0\refint\Conciliation.Domain.dll
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Domain\obj\Debug\net8.0\Conciliation.Domain.pdb

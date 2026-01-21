@@ -1,0 +1,42 @@
+#  .NET / Build 
+bin/
+obj/
+**/bin/
+**/obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / VS Code 
+.vs/
+.vscode/
+.idea/
+*.csproj.user
+
+#  Logs 
+*.log
+logs/
+log/
+
+# OS 
+Thumbs.db
+.DS_Store
+
+#  NuGet 
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+#  Test results 
+TestResults/
+coverage/
+
+#  Temporary 
+*.tmp
+*.temp

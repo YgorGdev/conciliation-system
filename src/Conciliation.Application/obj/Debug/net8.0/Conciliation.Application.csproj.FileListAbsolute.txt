@@ -8,6 +8,7 @@ C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Conciliation.Application.AssemblyInfoInputs.cache
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Conciliation.Application.AssemblyInfo.cs
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Conciliation.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Conciliation.Application.sourcelink.json
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Concilia.6B3AE826.Up2Date
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\Conciliation.Application.dll
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Application\obj\Debug\net8.0\refint\Conciliation.Application.dll

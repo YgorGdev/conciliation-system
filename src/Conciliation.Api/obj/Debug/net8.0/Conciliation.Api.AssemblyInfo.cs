@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conciliation.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e14fa20293c9b58479b2627baa0430b70295788")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conciliation.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conciliation.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

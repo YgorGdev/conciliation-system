@@ -11,6 +11,7 @@ C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Infrastructure\obj\De
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Infrastructure\obj\Debug\net8.0\Conciliation.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Infrastructure\obj\Debug\net8.0\Conciliation.Infrastructure.AssemblyInfo.cs
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Infrastructure\obj\Debug\net8.0\Conciliation.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Infrastructure\obj\Debug\net8.0\Conciliation.Infrastructure.sourcelink.json
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Infrastructure\obj\Debug\net8.0\Concilia.778446AA.Up2Date
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Infrastructure\obj\Debug\net8.0\Conciliation.Infrastructure.dll
 C:\Users\Ygor\Projects\ConciliationSystem\src\Conciliation.Infrastructure\obj\Debug\net8.0\refint\Conciliation.Infrastructure.dll
