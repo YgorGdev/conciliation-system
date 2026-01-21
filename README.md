@@ -17,7 +17,8 @@ Projeto inspirado em cenários reais de fintech, onde diferentes fontes de trans
 - Logs de execução e rastreabilidade  
 - Extensível para múltiplos provedores  
 - Regras de negócio independentes da camada de API  
-- Base preparada para testes automatizados
+- Base preparada para testes automatizados  
+- Persistência real em **SQL Server**
 
 ---
 
@@ -51,23 +52,48 @@ Projeto organizado em camadas:
 - .NET 8  
 - C#  
 - REST API  
+- SQL Server  
+- xUnit (testes unitários)  
 - Dependency Injection  
 - Logging estruturado  
 - Arquitetura em camadas (Clean/DDD inspired)  
-- Organização preparada para CI/CD
+- Pronto para CI/CD com GitHub Actions
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 ### Pré-requisitos
-- .NET SDK 8 instalado
+- .NET SDK 8 instalado  
+- SQL Server configurado
 
 ### Rodando a aplicação
 
-```bash
 dotnet restore
 dotnet build
 dotnet run --project src/Conciliation.Api
 
-###
+A API será iniciada em:
+
+http://localhost:5292
+
+Swagger:
+
+http://localhost:5292/swagger
+
+Executando os testes
+dotnet test
+O projeto já conta com estrutura de testes utilizando xUnit, servindo como base para evolução das regras de negócio.
+
+⚙️ Integração Contínua
+O repositório está preparado para CI com GitHub Actions, executando:
+
+build do projeto
+
+execução dos testes
+
+validação do código a cada push
+
+Arquivo de pipeline:
+
+.github/workflows/ci.yml
