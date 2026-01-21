@@ -1,6 +1,6 @@
 # Conciliation System
 
-API de conciliação de eventos financeiros desenvolvida em .NET 8 com arquitetura em camadas, focada em organização das regras de negócio, confiabilidade dos dados e evolução contínua.
+API de conciliação de eventos financeiros desenvolvida em **.NET 8** com arquitetura em camadas, focada em organização das regras de negócio, confiabilidade dos dados e evolução contínua.
 
 > Objetivo: estruturar o processo de conciliação separando domínio, aplicação e infraestrutura, garantindo baixo acoplamento, testabilidade e fácil expansão para novos provedores.
 
@@ -75,22 +75,12 @@ http://localhost:5292
 Se houver Swagger habilitado:
 
 http://localhost:5292/swagger
-📸 Evidências recomendadas
-Swagger com os endpoints
+📸 Evidências do projeto
+Swagger – endpoints disponíveis
 
-Terminal com a aplicação em execução
+Response real da API
 
-Exemplo de request/response no Postman
+Aplicação em execução
 
-Estrutura do projeto em camadas
+Estrutura em camadas
 
-🚀 Próximos passos
-Adicionar testes unitários
-
-Implementar CI com GitHub Actions
-
-Padronizar retornos com ProblemDetails
-
-Melhorar observabilidade e logs
-
-Suporte a novos provedores de dados
