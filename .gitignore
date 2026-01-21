@@ -23,7 +23,7 @@ obj/
 logs/
 log/
 
-# OS 
+# OS  
 Thumbs.db
 .DS_Store
 
