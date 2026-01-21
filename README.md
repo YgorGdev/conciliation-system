@@ -1,54 +1,88 @@
-# Conciliation System (API + Domain + Application + Infrastructure)
+# Conciliation System
 
-Sistema de conciliação/validação de eventos financeiros (movimentações), com arquitetura em camadas e boas práticas para crescimento do projeto.
+API de conciliação de eventos financeiros desenvolvida em .NET 8 com arquitetura em camadas, focada em organização das regras de negócio, testabilidade e evolução do projeto.
 
-> Objetivo: transformar regras de conciliação e validação em um fluxo organizado, testável e extensível, evitando “código spaghetti” e facilitando evolução.
-
----
-
-## ✨ Principais features
-
-- API REST para iniciar/consultar conciliações
-- Arquitetura em camadas (Clean/DDD-like): Domain, Application, Infrastructure, API
-- Regras de negócio isoladas no domínio (sem depender de banco/UI)
-- Validações e tratamento de erros padronizados
-- Logs e rastreabilidade do fluxo (status / falhas / resultado)
+> Objetivo: estruturar o processo de conciliação separando domínio, aplicação e infraestrutura, evitando código acoplado e facilitando manutenção.
 
 ---
 
-## 🧱 Arquitetura do projeto
+## ✨ Funcionalidades
+
+- API REST para processamento de conciliações  
+- Separação clara entre regras de negócio e infraestrutura  
+- Validações centralizadas no domínio  
+- Tratamento padronizado de erros  
+- Logs de execução e rastreabilidade  
+
+---
+
+## 🧱 Arquitetura
+
+Projeto organizado em camadas:
 
 - **Conciliation.Api**  
-  Camada de entrada (Controllers/Endpoints), validação de request, retornos HTTP.
+  Camada de apresentação com controllers e endpoints HTTP.
 
 - **Conciliation.Application**  
-  Casos de uso (Use Cases/Services), orquestração do fluxo e DTOs.
+  Orquestração dos casos de uso e regras de aplicação.
 
 - **Conciliation.Domain**  
-  Regras de negócio puras (Entities, Value Objects, Domain Services).
+  Regras de negócio, entidades e validações.
 
 - **Conciliation.Infrastructure**  
-  Acesso a dados e integrações (Repos, providers externos, etc).
+  Integrações externas e persistência de dados.
 
 ---
 
-## 🛠️ Tecnologias e práticas utilizadas
+## 🛠 Tecnologias utilizadas
 
-- .NET 8 (C#)
-- REST API
-- Dependency Injection
-- Arquitetura em camadas (Clean Architecture / DDD-inspired)
-- Boas práticas: separação de responsabilidades, código escalável e testável
+- .NET 8  
+- C#  
+- REST API  
+- Dependency Injection  
+- Arquitetura em camadas (Clean/DDD inspired)
 
 ---
 
-## ▶️ Como rodar
+## ▶️ Como executar
 
 ### Pré-requisitos
 - .NET SDK 8 instalado
 
-### Rodando local
+### Rodando a aplicação
+
 ```bash
 dotnet restore
 dotnet build
 dotnet run --project src/Conciliation.Api
+
+A API será iniciada em:
+
+http://localhost:5292
+
+
+Se houver Swagger habilitado:
+
+http://localhost:5292/swagger
+
+📸 Evidências
+
+Recomenda-se registrar:
+
+Swagger com os endpoints
+
+Terminal com a aplicação em execução
+
+Exemplo de request/response no Postman
+
+Estrutura do projeto em camadas
+
+🚀 Próximos passos
+
+Adicionar testes unitários
+
+Implementar CI com GitHub Actions
+
+Padronizar retornos com ProblemDetails
+
+Melhorar observabilidade e logs
